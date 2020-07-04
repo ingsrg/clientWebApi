@@ -5,7 +5,7 @@ import 'package:practicawidgets/src/model/profile.dart';
 final GlobalKey<ScaffoldState> _scaffoldState = GlobalKey<ScaffoldState>();
 
 class FormAddScreen extends StatefulWidget {
-  final Profile profile;
+  Profile profile;
 
   FormAddScreen({this.profile});
 
